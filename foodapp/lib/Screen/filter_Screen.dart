@@ -59,7 +59,7 @@ class _FilterScreenState extends State<FilterScreen> {
             icon: Icon(Icons.done),
           ),
         ],
-        title: Text('Test Screen'),
+        title: Text('Filter'),
       ),
       drawer: DrawerWidget(),
       body: Container(
